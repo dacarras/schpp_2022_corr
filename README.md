@@ -1,5 +1,5 @@
-# SCHPP:**Tolerancia a la Corrupción entre estudiantes de Latino America**
+# SCHPP: **Tolerancia a la Corrupción entre estudiantes de Latino America**
 
-# Láminas
+# Láminas presentados en formato pdf
 
--   schpp_tolerancia_a_la_corrupcion.pptx
+-   schpp_tolerancia_a_la_corrupcion.pdf
